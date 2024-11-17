@@ -1,0 +1,20 @@
+C:\Users\Игорь\Desktop\sam4\sam4\bin\Debug\sam4.exe.config
+C:\Users\Игорь\Desktop\sam4\sam4\bin\Debug\sam4.exe
+C:\Users\Игорь\Desktop\sam4\sam4\bin\Debug\sam4.pdb
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.Form1.resources
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.Properties.Resources.resources
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.exe
+C:\Users\Игорь\Desktop\sam4\sam4\obj\Debug\sam4.pdb
+J:\Программирование\ПР-5\самост 4\sam4\sam4\bin\Debug\sam4.exe.config
+J:\Программирование\ПР-5\самост 4\sam4\sam4\bin\Debug\sam4.exe
+J:\Программирование\ПР-5\самост 4\sam4\sam4\bin\Debug\sam4.pdb
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.csproj.AssemblyReference.cache
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.Form1.resources
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.Properties.Resources.resources
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.csproj.GenerateResource.cache
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.csproj.CoreCompileInputs.cache
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.exe
+J:\Программирование\ПР-5\самост 4\sam4\sam4\obj\Debug\sam4.pdb

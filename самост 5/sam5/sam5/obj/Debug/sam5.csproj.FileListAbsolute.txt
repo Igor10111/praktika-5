@@ -1,0 +1,20 @@
+C:\Users\Игорь\Desktop\sam5\sam5\bin\Debug\sam5.exe.config
+C:\Users\Игорь\Desktop\sam5\sam5\bin\Debug\sam5.exe
+C:\Users\Игорь\Desktop\sam5\sam5\bin\Debug\sam5.pdb
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.Form1.resources
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.Properties.Resources.resources
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.exe
+C:\Users\Игорь\Desktop\sam5\sam5\obj\Debug\sam5.pdb
+J:\Программирование\ПР-5\самост 5\sam5\sam5\bin\Debug\sam5.exe.config
+J:\Программирование\ПР-5\самост 5\sam5\sam5\bin\Debug\sam5.exe
+J:\Программирование\ПР-5\самост 5\sam5\sam5\bin\Debug\sam5.pdb
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.csproj.AssemblyReference.cache
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.Form1.resources
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.Properties.Resources.resources
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.csproj.GenerateResource.cache
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.csproj.CoreCompileInputs.cache
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.exe
+J:\Программирование\ПР-5\самост 5\sam5\sam5\obj\Debug\sam5.pdb

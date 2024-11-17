@@ -1,0 +1,20 @@
+C:\Users\Игорь\Desktop\sam 3\sam 3\bin\Debug\sam 3.exe.config
+C:\Users\Игорь\Desktop\sam 3\sam 3\bin\Debug\sam 3.exe
+C:\Users\Игорь\Desktop\sam 3\sam 3\bin\Debug\sam 3.pdb
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam 3.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam_3.Form1.resources
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam_3.Properties.Resources.resources
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam 3.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam 3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam 3.exe
+C:\Users\Игорь\Desktop\sam 3\sam 3\obj\Debug\sam 3.pdb
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\bin\Debug\sam 3.exe.config
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\bin\Debug\sam 3.exe
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\bin\Debug\sam 3.pdb
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam 3.csproj.AssemblyReference.cache
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam_3.Form1.resources
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam_3.Properties.Resources.resources
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam 3.csproj.GenerateResource.cache
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam 3.csproj.CoreCompileInputs.cache
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam 3.exe
+J:\Программирование\ПР-5\самост 3\sam 3\sam 3\obj\Debug\sam 3.pdb
